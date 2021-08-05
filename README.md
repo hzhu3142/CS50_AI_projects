@@ -3,7 +3,7 @@
 
 | No. | Topic | Name | Description| Video|
 | :--- | :------ | :---------- | :-----------------------------: | :--------------- |
-| 1    | Search           | [Degrees](degrees)         | Determine how many degrees of separation apart two actors are      | `$ python degrees.py large`                                           | [Link](https://youtu.be/SOzAWpJ7iCo)    |
+| 1    | Search           | [Degrees](degrees)         | Determine how many degrees of separation apart two actors are     | Pending   |
 | 2    | Search           | [Tic-Tac-Toe](tictactoe)   | Play tic-tac-toe optimally using Minimax                           |  Pending    |
 | 3    | Knowledge        | [Knights](knights)         | Solve logic puzzles                                                |  Pending    |
 | 4    | Knowledge        | [Minesweeper](minesweeper) | Play Minesweeper                                                   |  Pending    |
